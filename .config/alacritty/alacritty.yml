@@ -1,0 +1,65 @@
+colors:
+  primary:
+    background: '#061115'
+    foreground: '#D9D7D6'
+  cursor:
+    text:   CellForeground
+    cursor: '#d9d7d6'
+  bright:
+    black:   '#1C252C'
+    red:     '#DF5B61'
+    green:   '#78B892'
+    yellow:  '#DE8F78'
+    blue:    '#6791C9'
+    magenta: '#BC83E3'
+    cyan:    '#67AFC1'
+    white:   '#D9D7D6'
+  normal:
+    black:   '#484e5b'
+    red:     '#f16269'
+    green:   '#8cd7aa'
+    yellow:  '#e9967e'
+    blue:    '#79aaeb'
+    magenta: '#c488ec'
+    cyan:    '#7acfe4'
+    white:   '#e5e5e5'
+
+env:
+  TERM: xterm-256color
+
+window:
+  dynamic_padding: true 
+  padding:
+    x: 12
+    y: 12
+
+font:
+  normal:
+    family: Iosevka Nerd Font
+    style: Regular
+
+  bold:
+    family: Iosevka Nerd Font
+    style: Bold
+
+  italic:
+    family: Iosveka Nerd Font
+    style: Italic
+
+  bold_italic:
+    family: Iosevka Nerd Font
+    style: Bold Italic
+
+  size: 10
+
+  offset:
+    x: 0
+    y: 0
+
+cursor:
+  style: Underline
+
+
+  vi_mode_style: 'Underline'
+
+live_config_reload: true
