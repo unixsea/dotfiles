@@ -14,4 +14,15 @@ AwesomeWM is a highly configurable, next generation framework window manager for
 
 - **Terminal** [Alacritty](https://alacritty.org/)
 - **Compositor** [Picom](https://github.com/pijulius/picom)
-- **Application Launcher** [
+- **Application Launcher** [Rofi](https://github.com/davatorium/rofi)
+
+### Packages
+If you have any problems make an issue, or dm me on discord **unixsea#2317**
+
+You'll need these following packages:
+* [awesome-git](https://github.com/codic12/worm) \[YOU WILL NEED THE GIT VERSION!\]
+* [pamixer](https://github.com/cdemoulins/pamixer)
+* [alacritty](https://github.com/alacritty/alacritty)
+* [rofi](https://github.com/davatorium/rofi)  
+* [picom](https://github.com/pijulius/picom) \[YOU WILL NEED THE PIJULIUS FORK!\]
+* [brightnessctl](https://github.com/Hummer12007/brightnessctl)
