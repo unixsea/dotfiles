@@ -32,3 +32,5 @@ You'll need these following packages:
 ```bash
 paru -S awesome-git pamixer alacritty rofi brightnessctl rofi
 ```
+
+** PREVIEW COMING SOON **
