@@ -26,3 +26,8 @@ You'll need these following packages:
 * [rofi](https://github.com/davatorium/rofi)  
 * [picom](https://github.com/pijulius/picom) \[YOU WILL NEED THE PIJULIUS FORK!\]
 * [brightnessctl](https://github.com/Hummer12007/brightnessctl)
+
+***AUR***
+```bash
+paru -S awesome-git pamixer alacritty rofi brightnessctl rofi
+```
