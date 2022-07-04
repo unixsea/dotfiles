@@ -8,7 +8,7 @@ Do whatever you want with these dotfiles!
 
 ### What is AwesomeWM?
 
-AwesomeWM is a highly configurable, next generation framework window manager for X. It does take some to learn especially when you have to learn lua, it is very worth it!
+AwesomeWM is a highly configurable, next generation framework window manager for X. It does take some to learn especially when you have to learn lua, but it is very worth it!
 
 ### About.
 
@@ -27,7 +27,8 @@ You'll need these following packages:
 * [picom](https://github.com/pijulius/picom) \[YOU WILL NEED THE PIJULIUS FORK!\]
 * [brightnessctl](https://github.com/Hummer12007/brightnessctl)
 
-***AUR***
+**AUR**
+
 ```bash
 paru -S awesome-git pamixer alacritty rofi brightnessctl rofi
 ```
