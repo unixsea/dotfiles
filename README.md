@@ -32,5 +32,6 @@ You'll need these following packages:
 ```bash
 paru -S awesome-git pamixer alacritty rofi brightnessctl rofi
 ```
+## NOTE PLEASE GIT CLONE https://github.com/BlingCorp/bling and https://github.com/andOrlando/rubato for the dotfiles to work!
 
 **PREVIEW COMING SOON**
